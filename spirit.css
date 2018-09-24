@@ -1,0 +1,26 @@
+ .sp{background: url("../img/spirit/sp.png") no-repeat}
+.card{width: 15px;height: 12px;background-position: 0 0;}
+.house{width: 13px;height: 11px;background-position: 0 -12px;}
+.pig{width: 46px;height: 46px;background-position: 0 -23px;}
+.microphone{width: 46px;height: 45px;background-position: 0 -68px;}
+.shop{width: 46px;height: 45px;background-position: 0 -113px;}
+.culture{width: 46px;height: 46px;background-position: 0 -158px;}
+.leisure{width: 46px;height: 46px;background-position: 0 -203px;}
+.package{width: 46px;height: 46px;background-position: 0 -248px;}
+.knowledge{width: 46px;height: 40px;background-position: 0 -293px;}
+.money{width: 46px;height: 46px;background-position: 0 -338px;}
+.forum{width: 46px;height: 46px;background-position: 0 -383px;}
+.club{width: 46px;height: 42px;background-position: 0 -429px;}
+.save{width: 46px;height: 36px;background-position: 0 -474px;}
+.more{width: 37px;height: 13px;background-position: 0 -514px;}
+
+.pig:hover{background-position: 0 -527px;}
+.microphone:hover{background-position: 0 -574px;}
+.shop:hover{background-position: 0 -621px;}
+.culture:hover{background-position: 0 -668px;}
+.leisure:hover{background-position: 0 -715px;}
+.package:hover{background-position: 0 -762px;}
+.knowledge:hover{background-position: 0 -809px;}
+.money:hover{background-position: 0 -856px;}
+.forum:hover{background-position: 0 -903px;}
+.club:hover{background-position: 0 -950px;}
